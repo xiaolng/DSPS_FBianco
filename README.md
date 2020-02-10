@@ -6,7 +6,7 @@ Welcome to Machine Learning for Time Series Analysis class, a class developed an
 
 **This class has a [Code of Conduct](CodeofConduct.md) Before you do any thing else, please review the code of conduct. If you have questions of concerns about it let me know promptly**
 
-Please review the [Syllabus](http://bit.ly/dspssyllabus)
+Please review the [Syllabus](http://bit.ly/MLTSASyllabus)
 
 
 **Course Description** This course will teach you the basis of data driven inference in the physical sciences.  You will learn a examples of machine learning methods applied to current problems in Phsyics and the Natural Sciences. You will acquire basic computational skills, knowledge of statistical analysis, error analysis, good practises for handling, processing, and analyzing data and (including big-data) programmatically, and communication and visualization skills.  Some of the simpler algorithms will be explored in detail and implemented from scratch, others will be implemented through the use of dedicated python libraries.
@@ -17,7 +17,7 @@ Don't worry about how much you already know, especially do not compare it to wha
 
 # GRADING GUIDELINES
 
-Each HW must be turned in as a directory in DSPS_<firstInitialLastName>
+Each HW must be turned in as a directory in MLTSA_<firstInitialLastName>
   
 The directory HW<hw_number> must have a README.md which who was in the group that the student worked in and states the student's participation. No penalty if the student declares not to have had any contribution but to have jut followed and learned. However missing the README.md, missing the statement about who the student worked with and what they did, or inconsistencies between the statements of students within the group that cannot be easily reconciled by asking will costs them 10% of the grade.
 
@@ -38,8 +38,8 @@ The homework is due by Tuesday at midnight . For homework turned in through gith
 
 **Grades are based on **
 
-- 10%  pre-class questions
-- 15%  labs performance and participation 
-- 20% homework 
-- 20% midterm 
-- 35% ﬁnal 
+- 10% pre-class questions
+- 15% labs performance and participation
+- 20% homework
+- 20% midterm (project proposal)
+- 35% ﬁnal (project)
