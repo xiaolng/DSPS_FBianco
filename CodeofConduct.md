@@ -7,7 +7,7 @@ Thank you for making this space harassment free and inclusive to all members of 
 please come talk to me. If you feel targeted, come talk to me. 
 If you see instances of ill-natured interactions please come talk to me. 
 Keep in mind that I am a mandatory reporter according to 
-[Title IX](https://sites.udel.edu/sexualmisconduct/how-to-report/guidelines-for-reporting/), so if you report to me instances of discrimination and harassment I have to report the complaint to the UDel administration. However, there are many additional resources, inculding confidencial  at UDel if you wish to employ independent reporting channels; 
+[Title IX](https://sites.udel.edu/sexualmisconduct/how-to-report/guidelines-for-reporting/), so if you report to me instances of discrimination and harassment I have to report the complaint to the UDel administration. However, there are many additional resources, inculding confidential resource at UDel if you wish to employ independent reporting channels; 
 please see [this list of resources](UDelResources.md). 
 
 The following Code of Conduct applies to all interactions of members of MLTSA (PHYS 667), online and offline,
