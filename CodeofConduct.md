@@ -40,7 +40,8 @@ a learning environment that leads to rigor, excellence, and happiness. This incl
 
 - be mindful of cultural norms. Make sure you know how your classmates want to be addressed 
 (e.g. ask their preferred pronoun; mine is she/her/hers). 
-Do not interrupt your teammates while they are speaking, do not speak over teammates and be aware 
+
+- Do not interrupt your teammates while they are speaking, do not speak over teammates and be aware 
 and respectful of the natural volume of their voice. 
 Be respectful of individual communication skills and fluency in the common languages we speak. 
  
