@@ -5,13 +5,12 @@
 Thank you for making this space harassment free and inclusive to all members of this class environment**
 . If you have concerns, if you do not feel safe or are made to feel unwelcome in this class, 
 please come talk to me. If you feel targeted, come talk to me. 
-If you see instances of ill-natured interactions please come talk to me 
-(keeping in mind that I am a mandatory reporter according to 
-[Title IX](https://sites.udel.edu/sexualmisconduct/how-to-report/guidelines-for-reporting/)). 
+If you see instances of ill-natured interactions please come talk to me. Keep in mind that I am a mandatory reporter according to 
+[Title IX](https://sites.udel.edu/sexualmisconduct/how-to-report/guidelines-for-reporting/), so if you report to me instances of discrimination and harassment I have to report the complaint to the UDel administration. 
 There are many additional resources at UDel if you wish to employ independent reporting channels; 
 please see [this list of resources](UDelResources.md). 
 
-The following Code of Conduct applies to all interactions of members of DSPS (PHYS 467/667), online and offline,
+The following Code of Conduct applies to all interactions of members of MLTSA (PHYS 667), online and offline,
 including social media, mailing lists, forums, meetings, conferences, and one-to-one interactions.
 
 - All members of the group should be treated with respect regardless of personal attributes, 
