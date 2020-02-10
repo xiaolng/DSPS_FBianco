@@ -1,4 +1,4 @@
-# Data Science for (Physical) Scientists Code of Conduct
+# Machine Learning for Time Series Analysis Code of Conduct
 
 
 **Diversity is a resource that enriches us culturally and intellectually. 
