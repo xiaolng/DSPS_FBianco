@@ -38,7 +38,7 @@ For example [here is the UDel students' CoC](http://www1.udel.edu/stuguide/18-19
 I expect to see a supportive, collaborative attitude from all of my students to assure we maintain and foster 
 a learning environment that leads to rigor, excellence, and happiness. This includes:  
 
-- be mindful of cultural norms. Make sure you know how your classmates want to be addressed 
+- Be mindful of cultural norms. Make sure you know how your classmates want to be addressed 
 (e.g. ask their preferred pronoun; mine is she/her/hers). 
 
 - Do not interrupt your teammates while they are speaking, do not speak over teammates and be aware 
