@@ -21,4 +21,5 @@ xtick.top : True
 ytick.right : True
 axes.grid : False
 figure.figsize   : 10, 10  
+axes.labelsize: 18.0
 font.sans-serif : ["Arial", "DejaVu Sans", "Liberation Sans", "Bitstream Vera Sans", "sans-serif"]
