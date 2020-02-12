@@ -1,8 +1,8 @@
-axes.facecolor : ffffff   
-figure.facecolor : fffffff  
-figure.edgecolor : fffffff   
-savefig.facecolor : fffffff    
-savefig.edgecolor : fffffff    
+axes.facecolor : FFFFFF   
+figure.facecolor : FFFFFF  
+figure.edgecolor : FFFFFF   
+savefig.facecolor : FFFFFF    
+savefig.edgecolor : FFFFFF    
 axes.labelcolor : .15
 xtick.direction : in
 ytick.direction : in
