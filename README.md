@@ -19,16 +19,16 @@ Do not fret when comparing yourself to what other students know. You may have th
 
 Each HW must be turned in as a directory in MLTSA_<firstInitialLastName>
   
-The directory HW<hw_number> **must have a README.md which who was in the group that the student worked in and states the student's participation. Missing the README will result in a 0 grade**. No penalty if the student declares not to have had any specific contribution but to have jut followed and learned. However missing the README.md, missing the statement about who the student worked with and what they did, or inconsistencies between the statements of students within the group that cannot be easily reconciled by asking will costs them 10% of the grade.
+The directory HW<hw_number> **must have a README.md which lists who was in the group that the student worked in and states the student's participation. Missing the README will result in a 0 grade**. No penalty if the student declares not to have had any specific contribution but to have just followed and learned. However missing the README.md, missing the statement about who the student worked with and what they did, or inconsistencies between the statements of students within the group that cannot be easily reconciled by asking will costs them 10% of the grade.
 
 **Plots**: Each assignment turned in as a notebook must have rendered plots with axis labels and captions. Each **missing/non rendered plot, or plot without axes labels or caption will not be counted**. The caption should state *What* is beint plotted (describe the plot) and *Why* it is being plotted (describe the conclusions that the reader should draw from the plot).
 
 
-**Model and statistical analysis results must be discussed**. It is not sufficient to run a test and print the test output without commenting on the meaning of the test and results. The student should discuss why a test is chose, what the result is, what are the weaknesses of the test. 
+**Model and statistical analysis results must be discussed**. It is not sufficient to run a test and print the test output without commenting on the meaning of the test and results. The student should discuss why a test is chose, what the result is, what are the weaknesses of the test.
 
 **The notebook must be executables**: the TA must download the notebook and run it cell by cell without errors on google colab. If data are used they must be available to the TA, ideally by loading them online, so that the TA does not need to download large datasets (more details on this will be given in each homework set). The student should use conventional libraries, the use of any unusual library should be justified, and indicated explicitly in the readme, along with links to obtain the library if not available by conda, pip, port, or brew install. Turning in a notebook that cannot be executed will cost 10% of the grade.
 
-If code is used from other resources, e.g. copying a function found online, the resource must be stated, as a citation, in the notebook. Plagiarism is not allowed (obviously) and severely punished by NYU. Instances of plagiarism will cost the entire homework grade, and may cost failing the class, and may cause expulsion from the program!
+If code is used from other resources, e.g. copying a function found online, the resource must be stated, as a citation, in the notebook. Plagiarism is not allowed (obviously) and severely punished by NYU (UD?). Instances of plagiarism will cost the entire homework grade, and may cost failing the class, and may cause expulsion from the program!
 
 Adherence to coding style (PEP8, see this markdown) is encouraged in the first half of the semester, without being penalized. In the second half of the semester (starting with the midterm) not adhearing to the PEP8 guidelines will cost 5% of the grade per infraction (per type of infraction).
 
