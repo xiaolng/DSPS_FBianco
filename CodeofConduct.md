@@ -18,7 +18,7 @@ including but not limited to: race, ethniticity, gender or gender identity, phys
 phyiscal abilities, religious believes, political affiliation or opinions, sexual preference, 
 caregiver status, age, nationality, language. 
 
-- Harrasment, verbal or physical, are not tollerated. 
+- Harrasment, verbal or physical, are not tolerated. 
 Keep in mind that what is acceptable to one person may not be acceptable to another.  
 
 - Bullying, including physical bullying, exclusion, marginalization, disparagement, or intimidation, 
