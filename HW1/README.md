@@ -11,7 +11,7 @@ This issimilar to an acknowledgment of contribution you would find in a Nature l
 Intro and Section 1
 
 
-# Assignment 1: Understanding the Maxwell Boltzman distribution
+# Assignment 1: Linear Regression
 
 A skeleton notebook is [here](FittingLineToGRBAfterglows_instructions.ipynb)
 
