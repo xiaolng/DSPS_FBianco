@@ -42,4 +42,4 @@ The homework is due by Wednesday at midnight. For homework turned in through git
 - 20% labs performance and participation
 - 15% homework
 - 20% midterm (project proposal)
-- 35% ﬁnal (project)
+- 30% ﬁnal (project)
