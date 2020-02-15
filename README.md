@@ -38,8 +38,8 @@ The homework is due by Wednesday at midnight. For homework turned in through git
 
 **Grades are based on **
 
-- 10% pre-class questions
-- 15% labs performance and participation
-- 20% homework
+- 15% pre-class questions
+- 20% labs performance and participation
+- 15% homework
 - 20% midterm (project proposal)
 - 35% ﬁnal (project)
