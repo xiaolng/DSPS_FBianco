@@ -5,4 +5,4 @@ The history of science has been distorted by a longstanding conviction that corr
 
 # Assignment:
 
-Follow instruction on ARIMA_instructions.ipynb
+Follow instruction on [ARIMA_instructions.ipynb](ARIMA_instructions.ipynb)
