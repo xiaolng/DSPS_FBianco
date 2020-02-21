@@ -6,3 +6,6 @@ The history of science has been distorted by a longstanding conviction that corr
 # Assignment:
 
 Follow instruction on [ARIMA_instructions.ipynb](ARIMA_instructions.ipynb)
+
+Note that there are severl helper notebooks: in CodeExamples/ARMA there are notebooks to plot autocorrelation and partial autocorrelation functions, notebooks to load data from Kaggle (which also includes a differenciation function).
+
