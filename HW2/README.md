@@ -7,5 +7,6 @@ The history of science has been distorted by a longstanding conviction that corr
 
 Follow instruction on [ARIMA_instructions.ipynb](ARIMA_instructions.ipynb)
 
-Note that there are severl helper notebooks: in [CodeExamples/ARMA](https://github.com/fedhere/MLTSA_FBianco/tree/master/CodeExamples) there are notebooks to plot autocorrelation and partial autocorrelation functions, notebooks to load data from Kaggle (which also includes a differenciation function).
+Note that there are severl helper notebooks: in [CodeExamples](https://github.com/fedhere/MLTSA_FBianco/tree/master/CodeExamples) there are notebooks to load data from Kaggle (which also includes a differenciation function) and in [CodeExamples/ARMA](https://github.com/fedhere/MLTSA_FBianco/tree/master/CodeExamples/ARMA) notebooks to plot autocorrelation and partial autocorrelation functions.
+The partial solution to read in the kaggle dataset into a single dataframe is also in the [slides](https://slides.com/federicabianco/mltsa2/live?context=editing#/14/1) 
 
