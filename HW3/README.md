@@ -6,7 +6,7 @@ However, make sure you read it all, not only the functions I ask you to use. If 
 [Implementing Facebook Prophet efficiently](https://towardsdatascience.com/implementing-facebook-prophet-efficiently-c241305405a3)
 https://towardsdatascience.com/implementing-facebook-prophet-efficiently-c241305405a3
 
-#Assignment: 
+# Assignment: 
 
 This homework will guide you through a complete additive model analysis of a time series and familiarize you with the (fairly new) Facebook Prophet package for time series analysis.
 
