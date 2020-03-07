@@ -1,4 +1,18 @@
 
+# READING
+## 1 Fitting a straight line to data,
+https://arxiv.org/pdf/1008.4686.pdf
+Hogg, Bovy, Lang 2010,
+
+Read Footnotes 17 and 22
+
+
+## 2 Selective review of offline change point detection methods
+Charles Truonga, Laurent Oudre, Nicolas Vayatis
+https://arxiv.org/pdf/1801.00718.pdf
+
+Choose any one method and one cost function described in this paper  and read about it in detail. You should be prepared to write the cost function, describe it,  discuss the merit of the method and its applications (e.g. is it good for 1 poc or N poc? ) **quizzes may contain questions about this**
+
 # Assignments
 ## Assignment 1
 
