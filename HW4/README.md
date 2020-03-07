@@ -1,8 +1,7 @@
 
 # READING
 ## 1 Fitting a straight line to data,
-https://arxiv.org/pdf/1008.4686.pdf
-Hogg, Bovy, Lang 2010,
+Hogg, Bovy, Lang 2010 https://arxiv.org/pdf/1008.4686.pdf
 
 Read Footnotes 17 and 22
 
