@@ -4,7 +4,8 @@
 
 Find Points of Change in syntetic and earthquake time series
 
-chchchchanges_instructions.ipynb
+https://github.com/fedhere/MLTSA_FBianco/blob/master/HW4/chchchchanges_instructions.ipynb
+
 
 ## Assignment 2: Choose one between
 ### 1a: Work on state space and additive models for climate change  with PyDLM
