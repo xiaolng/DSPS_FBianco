@@ -18,6 +18,7 @@ For each object in the dataset there are 7 time series for 7 optical filters. Ea
  - in the second case you need to preserve the time stamps and reprganize the time series accordingly. 
  Consider an image: it is a NxN object. To feed it to the NN you flatten it: for example the "image" 
  
+|  |  |  |  |  |
 |--|--|--|--|--|
 |A1|A2|A3|A4|A5|
 |B1|B2|B3|B4|B5|
