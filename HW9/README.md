@@ -47,13 +47,13 @@ and ask it to predict
          
          
 then when you want to see if your autoencoder reproduces the time series you will compare
-
+```
 pl.plot(t, f) # the original time series
-
+```
 with 
-
+```
 pl.plot(output [:N], output[N:])
-
+```
 Or you can think of some other creative reorganizaion. To be honset this is unlikely to work well: you are asking the model to predict twice as many thigs as necessary here: the time and the flux! but as I said, you are free to approach this homework with an adventurous spirit. 
 
 4: create an autoencoder where the middle layer is smaller than the original size of the time series (or set of time series if you work with all colors at once). After training the NN on the training data extract the bottleneck layer of your neural network. This will be a set of N numbers (where N depends on the choice you made when you generated the model architecture). Those numbers should be used as N features to be fed to the same random forest classifier you created in HW7 (which you will need to retrain).  You should include the same features you had used in HW7 **plus he  the new N feature** and then print the accuracy, and the classification matrix. Are there any improvements?
