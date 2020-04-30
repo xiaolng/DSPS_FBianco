@@ -52,7 +52,7 @@ pl.plot(t, f) # the original time series
 ```
 with 
 ```
-pl.plot(output [:N], output[N:])
+pl.plot(output[:N], output[N:])
 ```
 Or you can think of some other creative reorganizaion. To be honset this is unlikely to work well: you are asking the model to predict twice as many thigs as necessary here: the time and the flux! but as I said, you are free to approach this homework with an adventurous spirit. 
 
