@@ -19,9 +19,13 @@ For each object in the dataset there are 7 time series for 7 optical filters. Ea
  Consider an image: it is a NxN object. To feed it to the NN you flatten it: for example the "image" 
  
       A1|A2|A3|A4|A5
+      
       B1|B2|B3|B4|B5
+      
       C1|C2|C3|C4|C5
+      
       D1|D2|D3|D4|D5
+      
       E1|E2|E3|E4|E5
 
 would be passed to the NN as 
