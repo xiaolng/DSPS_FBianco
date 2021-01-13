@@ -8,6 +8,7 @@ Welcome to Machine Learning for Time Series Analysis class, a class developed an
 
 Please review the [Syllabus](http://bit.ly/MLTSASyllabus)
 
+Slides [https://slides.com/federicabianco/decks/mltsa](https://slides.com/federicabianco/decks/mltsa)
 
 **Course Description** This course will teach you machine learning methods and their applications to time series analysis.  You will encouter examples of machine learning methods applied to time-domain problems in Phsyics and the Natural Sciences. Basic computational skills, knowledge of statistical analysis, error analysis, good practises for handling, processing, and analyzing data and (including big-data) programmatically, and communication and visualization practices will be reviewed, but generally will be assumed as a background that each student is familiar with. Some of the simpler algorithms will be explored in detail and implemented from scratch, others will be implemented through the use of dedicated python libraries.
 
