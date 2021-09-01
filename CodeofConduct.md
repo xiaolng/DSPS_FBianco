@@ -37,7 +37,7 @@ I expect to see a supportive, collaborative attitude from all students to assure
 - be on time for class
 
 - if attending remotely consider turning on your camera if you are comfortable with it to help us communicate with each other more easily. But we do not require that you do.
-- 
+ 
 Every day I try to remind myself of all these norms, but I do too fail to respect them at times. If you notice that I have not followed any of these rules, or you think I am adopting behaviors that make you uncomfortable please promptly let me know!
 
 
