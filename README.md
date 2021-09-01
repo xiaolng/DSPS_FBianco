@@ -1,24 +1,20 @@
-# MLTSA
+# DSPS
 
 
 
-Welcome to Machine Learning for Time Series Analysis class, a class developed and taught by Federica Bianco at the University of Delaware Physics and Astronomy Departmant : PHY 667
+Welcome to Data Science for Physical Scientists, a class developed and taught by Federica Bianco at the University of Delaware Physics and Astronomy Departmant : PHY 461/661
 
 **This class has a [Code of Conduct](CodeofConduct.md) Before you do any thing else, please review the code of conduct. If you have questions of concerns about it let me know promptly**
 
-Please review the [Syllabus](http://bit.ly/MLTSASyllabus)
+Please review the [Syllabus](https://bit.ly/dsps21syl)
 
-Slides [https://slides.com/federicabianco/decks/mltsa](https://slides.com/federicabianco/decks/mltsa)
+Slides [https://slides.com/federicabianco/decks/dsps21](https://slides.com/federicabianco/decks/dsps21)
 
-**Course Description** This course will teach you machine learning methods and their applications to time series analysis.  You will encouter examples of machine learning methods applied to time-domain problems in Phsyics and the Natural Sciences. Basic computational skills, knowledge of statistical analysis, error analysis, good practises for handling, processing, and analyzing data and (including big-data) programmatically, and communication and visualization practices will be reviewed, but generally will be assumed as a background that each student is familiar with. Some of the simpler algorithms will be explored in detail and implemented from scratch, others will be implemented through the use of dedicated python libraries.
-
-Do not fret when comparing yourself to what other students know. You may have the wrong perception of your skills, and of the skills of your classmates, and your strengths and the strengths of your background may lie in another set of skills, just as important for a Physical Scientist. Some of you may have a good handle and understanding of some or all of the physics problems we will study, others a good handle on coding, others yet an easy time understanding the details of the analysis. All these components make proficiency in this class, and all these components make a good scientist. We, the class assistnts and I, are here to help you develop the skills you do not yet have and strengthen the skills you already have. 
-
-*By the end of this class you should be familiar and able to choose and apply machine learning methods to time series analysis and forcasting problems.*
+**Course Description** 
 
 # GRADING GUIDELINES
 
-Each HW must be turned in as a directory in MLTSA_<firstInitialLastName>
+Each HW must be turned in as a directory in DSPS_<firstInitialLastName>
   
 The directory HW<hw_number> **must have a README.md which lists who was in the group that the student worked in and states the student's participation. Missing the README will result in a 0 grade**. No penalty if the student declares not to have had any specific contribution but to have just followed and learned. However missing the README.md, missing the statement about who the student worked with and what they did, or inconsistencies between the statements of students within the group that cannot be easily reconciled by asking will costs them 10% of the grade.
 
@@ -37,10 +33,3 @@ Ultimately the homework are for the student to learn, and the test of your learn
 The homework is due by Wednesday at midnight. For homework turned in through github this means we will only review material uploaded by the deadline. A single 3-day (72 hours) exception is allowed throughout the semester, explicitly declare that you are going to use it when you do not turn in the homework, and do use it wisely (if you still do not turn in the homework at the end of the 72 hours your extension will still be available for you to use). The lowest grade in the first half of the course (before midterm), and the lowest grade in the second half will be disregarded in computing the final grade. If you fail to turn in an assignment that will be a 0, and the lowest grade. This means you will lose the chance to disregard your worst performance. Homework will be exclusively received through github (unless otherwise stated). The homeworks assignments are downloaded automatically at due time, so there will be no ambiguity as of whether the homework will be turned in time.
 
 
-**Grades are based on **
-
-- 15% pre-class questions
-- 20% labs performance and participation
-- 15% homework
-- 20% midterm (project proposal)
-- 30% ﬁnal (project)
