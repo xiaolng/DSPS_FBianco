@@ -16,4 +16,7 @@ https://science.sciencemag.org/content/347/6228/1314.summary
 
 ## ASSIGNMENT
 - make an account on GitHub if you do not have one yet
-- Create a repository called DSPS_<firstinitialLastname>
+- Create a repository called DSPS_\<firstinitialLastname\>
+- fill in this form  https://forms.gle/GtufqNMfF9gCnzoG6
+
+
