@@ -1,4 +1,4 @@
-# Machine Learning for Time Series Analysis Code of Conduct
+# Data Science for Physical Sciences Code of Conduct
 
 PHYS461/661 : Data Science for Physical Scientists 2021
 
