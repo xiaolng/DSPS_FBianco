@@ -1,17 +1,17 @@
-## pulls all updates from the students repos in the file PUI2016_Tue.csv or PUI2016_Thu.csv"
+## pulls all updates from the students repos in the file DSPS2021.csv"
 ## run as
 #####$ python pullallgits.py Tue
 ## or
 #####$ python pullallgits.py Thu
 ##
-##must have env variable PUI2018 set up and pointing to a
+##must have env variable DSPS2021 set up and pointing to a
 import os
 import sys
 import glob
 
 
 ### checking env variable is set up
-dspsdir = os.getenv("DSPS2019")
+dspsdir = os.getenv("DSPS2021")
 if dspsdir is None:
 	print ("make sure the env variable DSPS2019 is set up")
 	sys.exit()
