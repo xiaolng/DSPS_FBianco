@@ -1,10 +1,10 @@
-## clones all the students repos in the file PUI2016_Tue.csv or PUI2016_Thu.csv"
+## clones all the students repos in the file DSPS2021.csv"
 ## run as
 #####$ python gitallrepos.py Tue
 ## or
 #####$ python gitallrepos.py Thu
 ##
-##must have env variable PUI2016 set up and pointing to a
+##must have env variable DSPS2021 set up and pointing to a
 import pandas as pd
 import os
 import sys
