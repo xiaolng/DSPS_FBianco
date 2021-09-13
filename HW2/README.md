@@ -5,13 +5,13 @@
 
 # Assignment 1: Understanding the Maxwell Boltzman distribution
 
-A skeleton notebook is here
+A skeleton notebook is [here](https://github.com/fedhere/DSPS_FBianco/blob/master/HW2/MBoltzmannDistribution.ipynb)
 
 Answer the questions in the notebook
 
 # Assignment 2: Write an ipython notebook that demonstrates visually in a data-driven way the Central Limit Theorem.
 
-A skeleton notebook is here
+A skeleton notebook is [here](https://github.com/fedhere/DSPS_FBianco/blob/master/HW2/CentralLimitTheorem.ipynb)
 
 GENERATE 100 samples of different sizes N (N>10 & N<2000) from each of 5 different distributions (500 samples in total), all with the same population mean.
 
