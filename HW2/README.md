@@ -35,4 +35,3 @@ display all plots: a scatter plot per distribution and a histogram of all distri
 
 each plot must have a caption which describes the plot in terms of Central Limit Theorem
 
-
