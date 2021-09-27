@@ -15,9 +15,8 @@ Remember to include a README.md, in markdown format, that states how your team w
 
 follow the instructions in the notebook [GalrotCurve.ipynb](GalrotCurve.ipynb)
 
-# 2. 667 students (and extra credit for 467)
+# 2. 661 students (and extra credit for 461)
 
-Problem 1 in [Hogg and Foreman-Mackey 2017](https://arxiv.org/pdf/1710.06068.pdf). You cannot choose: Gaussian, Poisson, or Binomial. Any other distribution is fine. Make sure that your chosen disrtibution has defined mean, variance, skewness, and kurtosis! (e.g. of a distribution with non defined is the Cauchy distribution, which is my favorite. Ask me why if you are curious!)
-You can find the "sampe extimated of the moments" [here](https://www.statisticshowto.datasciencecentral.com/method-moments/)
+Problem on MCMC and estimation of uncertainties (TBD)
 
 
